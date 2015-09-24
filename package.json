@@ -1,7 +1,7 @@
 {
   "name": "generator-node-commandline",
-  "version": "0.0.0",
-  "description": "Yeoman generator",
+  "version": "0.1.1",
+  "description": "A Yeoman generator for Node.JS command line applications.",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "olohmann/generator-node-commandline",
@@ -17,7 +17,10 @@
     "generators"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "node",
+    "cli",
+    "commandline"
   ],
   "dependencies": {
     "chalk": "^1.0.0",
